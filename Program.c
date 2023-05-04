@@ -1,4 +1,6 @@
-/*This program is for table 1 to 10 using for loop*/
+// Write a program the table of 1 to 10 Using (WHILE)
+
+
 #include<stdio.h>
 #include<conio.h>
 void main()
